@@ -30,6 +30,8 @@ img{
 .cards{
   display: flex;
   flex-wrap: wrap;
+  position: relative;
+  left:2rem
 }
 p,h3{
   margin:0.5em;
